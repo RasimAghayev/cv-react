@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![Views](https://hits.sh/github.com/RasimAghayev/cv-react.svg?label=views&color=0e75b6)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
